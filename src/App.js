@@ -30,6 +30,7 @@ function App() {
   // At the end of the audio file, reset the player
   function audioEnded() {
     setAudioPlaying(false);
+    setCurrentWords(false);
     audioEl.current.currentTime = 0;
   }
 
@@ -53,21 +54,16 @@ function App() {
     }
     const currentSentence = lastActiveWord.sentence;
     const wordsInSentence = captionJSON.filter(caption => caption.sentence === currentSentence);
-    return wordsInSentence;
+    setCurrentWords(wordsInSentence);
   }
 
-  // Watches `currentTime` and determines the progress;
-  // Gets current words based on `currentTime` and stores in state;
-  // Only proceed if the currentTime is set and the duration has been loaded;
-  useEffect(() => {
+  // Determine percentage complete based on currentTime and duration
+  // Using that percentage determine the pixel width of the progress indicator
+  // Only proceed if the currentTime is set and the duration has been determined;
+  function handleProgress() {
     if(currentTime === false || !duration){
       return;
     }
-    setCurrentWords(getCurrentWords());
-    handleProgress();
-  }, [currentTime]);
-
-  function handleProgress() {
     const percentage = currentTime/duration;
     const progMaxWidth = progressBar.current.offsetWidth * percentage;
     let newProgStyles = { ...progStyles  }
@@ -75,6 +71,12 @@ function App() {
         newProgStyles.maxWidth = progMaxWidth;
     setProgStyles({...newProgStyles});
   }
+
+  // Gets current words based on `currentTime` and stores in state;
+  useEffect(getCurrentWords, [currentTime]);
+
+  // On change of currentTime or duration, trigger handling of progress bar.
+  useEffect(handleProgress, [currentTime, duration]);
   
   // Based on where within the progress bar the user clicks, advance audio to appropriate time.
   // Only allow if duration is set and audioElement has been rendered. 

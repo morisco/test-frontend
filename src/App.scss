@@ -39,9 +39,9 @@ body{
       display:block;
       font-size:4.25vw;
       font-family:$font;
-
+      text-transform:lowercase;
     }
-    span:not(:first-of-type)::first-letter{
+    span::first-letter{
       text-transform:capitalize;
     }
     @media(max-width:$mobileBreakpoint){
@@ -93,8 +93,3 @@ body{
     }
   }
 }
-
-
-
-
-
