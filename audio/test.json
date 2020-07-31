@@ -1,0 +1,576 @@
+[
+  {
+    "sentence": 0,
+    "word": "The",
+    "startTime": "0.300000000",
+    "endTime": "0.500000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 0,
+    "word": "Birch",
+    "startTime": "0.500000000",
+    "endTime": "0.900000000",
+    "confidence": 0.7295838594436646
+  },
+  {
+    "sentence": 0,
+    "word": "canoe",
+    "startTime": "0.900000000",
+    "endTime": "1.400000000",
+    "confidence": 0.720193088054657
+  },
+  {
+    "sentence": 0,
+    "word": "slid",
+    "startTime": "1.400000000",
+    "endTime": "1.800000000",
+    "confidence": 0.7462972402572632
+  },
+  {
+    "sentence": 0,
+    "word": "on",
+    "startTime": "1.800000000",
+    "endTime": "1.900000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 0,
+    "word": "the",
+    "startTime": "1.900000000",
+    "endTime": "2.100000000",
+    "confidence": 0.750004768371582
+  },
+  {
+    "sentence": 0,
+    "word": "smooth",
+    "startTime": "2.100000000",
+    "endTime": "2.500000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 0,
+    "word": "planks",
+    "startTime": "2.500000000",
+    "endTime": "3.100000000",
+    "confidence": 0.7289348840713501
+  },
+  {
+    "sentence": 0,
+    "word": "glue",
+    "startTime": "4.100000000",
+    "endTime": "4.500000000",
+    "confidence": 0.7297952175140381
+  },
+  {
+    "sentence": 0,
+    "word": "the",
+    "startTime": "4.500000000",
+    "endTime": "4.600000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 0,
+    "word": "sheet",
+    "startTime": "4.600000000",
+    "endTime": "4.900000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 0,
+    "word": "to",
+    "startTime": "4.900000000",
+    "endTime": "5.0",
+    "confidence": 0.7393885254859924
+  },
+  {
+    "sentence": 0,
+    "word": "the",
+    "startTime": "5.0",
+    "endTime": "5.100000000",
+    "confidence": 0.6860766410827637
+  },
+  {
+    "sentence": 0,
+    "word": "dark",
+    "startTime": "5.100000000",
+    "endTime": "5.400000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 0,
+    "word": "blue",
+    "startTime": "5.400000000",
+    "endTime": "5.700000000",
+    "confidence": 0.772620439529419
+  },
+  {
+    "sentence": 0,
+    "word": "background.",
+    "startTime": "5.700000000",
+    "endTime": "6.600000000",
+    "confidence": 0.6660236120223999
+  },
+  {
+    "sentence": 1,
+    "word": "It",
+    "startTime": "7.700000000",
+    "endTime": "7.800000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "is",
+    "startTime": "7.800000000",
+    "endTime": "7.900000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "easy",
+    "startTime": "7.900000000",
+    "endTime": "8.200000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "to",
+    "startTime": "8.200000000",
+    "endTime": "8.300000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "tell",
+    "startTime": "8.300000000",
+    "endTime": "8.600000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "the",
+    "startTime": "8.600000000",
+    "endTime": "8.700000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "depth",
+    "startTime": "8.700000000",
+    "endTime": "9.0",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "of",
+    "startTime": "9.0",
+    "endTime": "9.100000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "a",
+    "startTime": "9.100000000",
+    "endTime": "9.200000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "well",
+    "startTime": "9.200000000",
+    "endTime": "9.600000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "these",
+    "startTime": "10.700000000",
+    "endTime": "11.0",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "days",
+    "startTime": "11.0",
+    "endTime": "11.200000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "a",
+    "startTime": "11.200000000",
+    "endTime": "11.300000000",
+    "confidence": 0.38635605573654175
+  },
+  {
+    "sentence": 1,
+    "word": "chicken",
+    "startTime": "11.300000000",
+    "endTime": "11.600000000",
+    "confidence": 0.7264576554298401
+  },
+  {
+    "sentence": 1,
+    "word": "leg",
+    "startTime": "11.600000000",
+    "endTime": "11.800000000",
+    "confidence": 0.7730563282966614
+  },
+  {
+    "sentence": 1,
+    "word": "is",
+    "startTime": "11.800000000",
+    "endTime": "12.0",
+    "confidence": 0.744499146938324
+  },
+  {
+    "sentence": 1,
+    "word": "a",
+    "startTime": "12.0",
+    "endTime": "12.100000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "rare",
+    "startTime": "12.100000000",
+    "endTime": "12.300000000",
+    "confidence": 0.723395824432373
+  },
+  {
+    "sentence": 1,
+    "word": "dish",
+    "startTime": "12.300000000",
+    "endTime": "13.0",
+    "confidence": 0.5516517162322998
+  },
+  {
+    "sentence": 1,
+    "word": "rice",
+    "startTime": "14.0",
+    "endTime": "14.400000000",
+    "confidence": 0.6727774739265442
+  },
+  {
+    "sentence": 1,
+    "word": "is",
+    "startTime": "14.400000000",
+    "endTime": "14.500000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "often",
+    "startTime": "14.500000000",
+    "endTime": "14.900000000",
+    "confidence": 0.867454469203949
+  },
+  {
+    "sentence": 1,
+    "word": "served",
+    "startTime": "14.900000000",
+    "endTime": "15.200000000",
+    "confidence": 0.6559545993804932
+  },
+  {
+    "sentence": 1,
+    "word": "in",
+    "startTime": "15.200000000",
+    "endTime": "15.400000000",
+    "confidence": 0.5754493474960327
+  },
+  {
+    "sentence": 1,
+    "word": "round",
+    "startTime": "15.400000000",
+    "endTime": "15.700000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 1,
+    "word": "Bowls.",
+    "startTime": "15.700000000",
+    "endTime": "17.100000000",
+    "confidence": 0.424807071685791
+  },
+  {
+    "sentence": 2,
+    "word": "The",
+    "startTime": "17.200000000",
+    "endTime": "17.300000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 2,
+    "word": "juice",
+    "startTime": "17.300000000",
+    "endTime": "17.600000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 2,
+    "word": "of",
+    "startTime": "17.600000000",
+    "endTime": "17.800000000",
+    "confidence": 0.4725700616836548
+  },
+  {
+    "sentence": 2,
+    "word": "lemons",
+    "startTime": "17.800000000",
+    "endTime": "18.200000000",
+    "confidence": 0.4544600546360016
+  },
+  {
+    "sentence": 2,
+    "word": "makes",
+    "startTime": "18.200000000",
+    "endTime": "18.500000000",
+    "confidence": 0.7718904614448547
+  },
+  {
+    "sentence": 2,
+    "word": "fine",
+    "startTime": "18.500000000",
+    "endTime": "18.800000000",
+    "confidence": 0.7207602858543396
+  },
+  {
+    "sentence": 2,
+    "word": "punch",
+    "startTime": "18.800000000",
+    "endTime": "19.200000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 2,
+    "word": "off",
+    "startTime": "19.200000000",
+    "endTime": "19.400000000",
+    "confidence": 0.7973290681838989
+  },
+  {
+    "sentence": 2,
+    "word": "the",
+    "startTime": "20.300000000",
+    "endTime": "20.400000000",
+    "confidence": 0.3547993302345276
+  },
+  {
+    "sentence": 2,
+    "word": "box",
+    "startTime": "20.400000000",
+    "endTime": "20.700000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 2,
+    "word": "was",
+    "startTime": "20.700000000",
+    "endTime": "20.900000000",
+    "confidence": 0.726791501045227
+  },
+  {
+    "sentence": 2,
+    "word": "done",
+    "startTime": "20.900000000",
+    "endTime": "21.200000000",
+    "confidence": 0.7651307582855225
+  },
+  {
+    "sentence": 2,
+    "word": "beside",
+    "startTime": "21.200000000",
+    "endTime": "21.500000000",
+    "confidence": 0.7975271344184875
+  },
+  {
+    "sentence": 2,
+    "word": "the",
+    "startTime": "21.500000000",
+    "endTime": "21.700000000",
+    "confidence": 0.7074337601661682
+  },
+  {
+    "sentence": 2,
+    "word": "park",
+    "startTime": "21.700000000",
+    "endTime": "21.900000000",
+    "confidence": 0.7536555528640747
+  },
+  {
+    "sentence": 2,
+    "word": "truck.",
+    "startTime": "21.900000000",
+    "endTime": "22.400000000",
+    "confidence": 0.647328794002533
+  },
+  {
+    "sentence": 3,
+    "word": "The",
+    "startTime": "23.600000000",
+    "endTime": "23.700000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 3,
+    "word": "Hogs",
+    "startTime": "23.700000000",
+    "endTime": "24.0",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 3,
+    "word": "are",
+    "startTime": "24.0",
+    "endTime": "24.100000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 3,
+    "word": "fed",
+    "startTime": "24.100000000",
+    "endTime": "24.500000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 3,
+    "word": "chopped",
+    "startTime": "24.500000000",
+    "endTime": "24.800000000",
+    "confidence": 0.8657444715499878
+  },
+  {
+    "sentence": 3,
+    "word": "corn",
+    "startTime": "24.800000000",
+    "endTime": "25.100000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 3,
+    "word": "and",
+    "startTime": "25.100000000",
+    "endTime": "25.200000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 3,
+    "word": "garbage",
+    "startTime": "25.200000000",
+    "endTime": "26.900000000",
+    "confidence": 0.8729377388954163
+  },
+  {
+    "sentence": 3,
+    "word": "for",
+    "startTime": "26.900000000",
+    "endTime": "27.200000000",
+    "confidence": 0.4928938150405884
+  },
+  {
+    "sentence": 3,
+    "word": "hours",
+    "startTime": "27.200000000",
+    "endTime": "27.500000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 3,
+    "word": "of",
+    "startTime": "27.500000000",
+    "endTime": "27.600000000",
+    "confidence": 0.7154956459999084
+  },
+  {
+    "sentence": 3,
+    "word": "steady",
+    "startTime": "27.600000000",
+    "endTime": "27.900000000",
+    "confidence": 0.648102343082428
+  },
+  {
+    "sentence": 3,
+    "word": "work",
+    "startTime": "27.900000000",
+    "endTime": "28.100000000",
+    "confidence": 0.6641817688941956
+  },
+  {
+    "sentence": 3,
+    "word": "faced",
+    "startTime": "28.100000000",
+    "endTime": "28.500000000",
+    "confidence": 0.4142659604549408
+  },
+  {
+    "sentence": 3,
+    "word": "us.",
+    "startTime": "28.500000000",
+    "endTime": "28.900000000",
+    "confidence": 0.595012903213501
+  },
+  {
+    "sentence": 4,
+    "word": "A",
+    "startTime": "29.900000000",
+    "endTime": "30.0",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 4,
+    "word": "large",
+    "startTime": "30.0",
+    "endTime": "30.400000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 4,
+    "word": "size",
+    "startTime": "30.400000000",
+    "endTime": "30.600000000",
+    "confidence": 0.8916680812835693
+  },
+  {
+    "sentence": 4,
+    "word": "and",
+    "startTime": "30.600000000",
+    "endTime": "30.700000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 4,
+    "word": "stockings",
+    "startTime": "30.700000000",
+    "endTime": "31.200000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 4,
+    "word": "is",
+    "startTime": "31.200000000",
+    "endTime": "31.300000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 4,
+    "word": "hard",
+    "startTime": "31.300000000",
+    "endTime": "31.600000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 4,
+    "word": "to",
+    "startTime": "31.600000000",
+    "endTime": "31.700000000",
+    "confidence": 0.9128385782241821
+  },
+  {
+    "sentence": 4,
+    "word": "sell.",
+    "startTime": "31.700000000",
+    "endTime": "32.300000000",
+    "confidence": 0.9128385782241821
+  }
+]
