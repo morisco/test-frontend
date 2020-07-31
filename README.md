@@ -1,5 +1,10 @@
 # Siberia Front End Assessment
 
+### **Morisco's setup instructions**
+The project is built with create-react-app as a starting point.
+1. Run `yarn` or `npm install`
+2. Run `yarn start` or `npm run start`
+
 ### **What's In Here**
 In the `/audio` directory, you will find 3 files:
 1. **test.wav** a spoken-word audio file
